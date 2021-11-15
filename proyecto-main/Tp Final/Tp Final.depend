@@ -1,0 +1,432 @@
+# depslib dependency file v1.0
+1491400450 source:f:\nacho\facultad\laboratorio 1\tp final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1623177526 source:f:\nacho\facultad\laboratorio 1\tp final\menu.c
+	"menu.h"
+
+1623177496 f:\nacho\facultad\laboratorio 1\tp final\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1490112217 source:f:\nacho\facultad\laboratorio 1\tp final\pila.c
+	"pila.h"
+
+1490112217 f:\nacho\facultad\laboratorio 1\tp final\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1624572642 source:f:\nacho\facultad\laboratorio 1\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"gotoxy.h"
+	"generales.h"
+	"cliente.h"
+	"clientes.h"
+	"consumo.h"
+	"consumos.h"
+
+1491399896 f:\nacho\facultad\laboratorio 1\tp final\gotoxy.h
+
+1623541988 f:\nacho\facultad\laboratorio 1\tp final\clientes.h
+
+1624576936 source:f:\nacho\facultad\laboratorio 1\tp final\clientes.c
+	"cliente.h"
+	"clientes.h"
+
+1624568448 f:\nacho\facultad\laboratorio 1\tp final\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"gotoxy.h"
+
+1624576772 source:f:\nacho\facultad\laboratorio 1\tp final\cliente.c
+	"generales.h"
+	"cliente.h"
+
+1624573958 f:\nacho\facultad\laboratorio 1\tp final\consumo.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"gotoxy.h"
+
+1624577770 source:f:\nacho\facultad\laboratorio 1\tp final\consumo.c
+	"generales.h"
+	"cliente.h"
+	"consumo.h"
+
+1624574799 source:f:\nacho\facultad\laboratorio 1\tp final\consumos.c
+	"consumo.h"
+	"consumos.h"
+
+1623541504 f:\nacho\facultad\laboratorio 1\tp final\consumos.h
+
+1624427267 f:\nacho\facultad\laboratorio 1\tp final\generales.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1624405436 source:f:\nacho\facultad\laboratorio 1\tp final\generales.c
+	"generales.h"
+
+1624645890 source:f:\nacho\facultad\laboratorio 1\tp final\tp final\cliente.c
+	"generales.h"
+	"cliente.h"
+
+1624645890 f:\nacho\facultad\laboratorio 1\tp final\tp final\generales.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1624645890 f:\nacho\facultad\laboratorio 1\tp final\tp final\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"gotoxy.h"
+
+1624645890 f:\nacho\facultad\laboratorio 1\tp final\tp final\gotoxy.h
+
+1624645890 source:f:\nacho\facultad\laboratorio 1\tp final\tp final\clientes.c
+	"cliente.h"
+	"clientes.h"
+
+1624645890 f:\nacho\facultad\laboratorio 1\tp final\tp final\clientes.h
+
+1624645890 source:f:\nacho\facultad\laboratorio 1\tp final\tp final\consumo.c
+	"generales.h"
+	"cliente.h"
+	"consumo.h"
+
+1624645890 f:\nacho\facultad\laboratorio 1\tp final\tp final\consumo.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"gotoxy.h"
+
+1624645890 source:f:\nacho\facultad\laboratorio 1\tp final\tp final\consumos.c
+	"cliente.h"
+	"consumo.h"
+	"consumos.h"
+
+1624645890 f:\nacho\facultad\laboratorio 1\tp final\tp final\consumos.h
+
+1624604617 source:f:\nacho\facultad\laboratorio 1\tp final\tp final\generales.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"generales.h"
+
+1624645890 source:f:\nacho\facultad\laboratorio 1\tp final\tp final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1624603413 source:f:\nacho\facultad\laboratorio 1\tp final\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"gotoxy.h"
+	"generales.h"
+	"cliente.h"
+	"clientes.h"
+	"consumo.h"
+	"consumos.h"
+
+1634918782 source:c:\users\usuario\desktop\nacho\facultad\cuatrimestre 1\laboratorio 1\tp final\tp final\generales.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"generales.h"
+	"gotoxy.h"
+
+1634918046 c:\users\usuario\desktop\nacho\facultad\cuatrimestre 1\laboratorio 1\tp final\tp final\generales.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1634918827 source:c:\users\usuario\desktop\nacho\facultad\cuatrimestre 1\laboratorio 1\tp final\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"gotoxy.h"
+	"generales.h"
+	"cliente.h"
+	"clientes.h"
+	"consumo.h"
+	"consumos.h"
+
+1624645890 c:\users\usuario\desktop\nacho\facultad\cuatrimestre 1\laboratorio 1\tp final\tp final\gotoxy.h
+
+1634918073 c:\users\usuario\desktop\nacho\facultad\cuatrimestre 1\laboratorio 1\tp final\tp final\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"gotoxy.h"
+
+1634917781 c:\users\usuario\desktop\nacho\facultad\cuatrimestre 1\laboratorio 1\tp final\tp final\clientes.h
+
+1634918296 c:\users\usuario\desktop\nacho\facultad\cuatrimestre 1\laboratorio 1\tp final\tp final\consumo.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"gotoxy.h"
+
+1634918157 c:\users\usuario\desktop\nacho\facultad\cuatrimestre 1\laboratorio 1\tp final\tp final\consumos.h
+
+1634918096 source:c:\users\usuario\desktop\nacho\facultad\cuatrimestre 1\laboratorio 1\tp final\tp final\cliente.c
+	"generales.h"
+	"cliente.h"
+
+1634917808 source:c:\users\usuario\desktop\nacho\facultad\cuatrimestre 1\laboratorio 1\tp final\tp final\clientes.c
+	"cliente.h"
+	"clientes.h"
+
+1634918311 source:c:\users\usuario\desktop\nacho\facultad\cuatrimestre 1\laboratorio 1\tp final\tp final\consumo.c
+	"generales.h"
+	"cliente.h"
+	"consumo.h"
+
+1634918173 source:c:\users\usuario\desktop\nacho\facultad\cuatrimestre 1\laboratorio 1\tp final\tp final\consumos.c
+	"cliente.h"
+	"consumo.h"
+	"consumos.h"
+	"generales.h"
+
+1624645890 source:c:\users\usuario\desktop\nacho\facultad\cuatrimestre 1\laboratorio 1\tp final\tp final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1636857344 source:c:\users\usuario\desktop\nacho\facultad\cuatrimestre 2\programacion y laboratorio 2\tp final\proyecto-main\tp final\cliente.c
+	"generales.h"
+	"cliente.h"
+
+1634919094 c:\users\usuario\desktop\nacho\facultad\cuatrimestre 2\programacion y laboratorio 2\tp final\proyecto-main\tp final\generales.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1636850070 c:\users\usuario\desktop\nacho\facultad\cuatrimestre 2\programacion y laboratorio 2\tp final\proyecto-main\tp final\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"gotoxy.h"
+
+1634919094 c:\users\usuario\desktop\nacho\facultad\cuatrimestre 2\programacion y laboratorio 2\tp final\proyecto-main\tp final\gotoxy.h
+
+1636774355 source:c:\users\usuario\desktop\nacho\facultad\cuatrimestre 2\programacion y laboratorio 2\tp final\proyecto-main\tp final\clientes.c
+	"cliente.h"
+	"clientes.h"
+
+1636772577 c:\users\usuario\desktop\nacho\facultad\cuatrimestre 2\programacion y laboratorio 2\tp final\proyecto-main\tp final\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"generales.h"
+
+1636895800 source:c:\users\usuario\desktop\nacho\facultad\cuatrimestre 2\programacion y laboratorio 2\tp final\proyecto-main\tp final\consumo.c
+	"generales.h"
+	"cliente.h"
+	"consumo.h"
+
+1634919094 c:\users\usuario\desktop\nacho\facultad\cuatrimestre 2\programacion y laboratorio 2\tp final\proyecto-main\tp final\consumo.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"gotoxy.h"
+
+1636855578 source:c:\users\usuario\desktop\nacho\facultad\cuatrimestre 2\programacion y laboratorio 2\tp final\proyecto-main\tp final\consumos.c
+	"cliente.h"
+	"consumo.h"
+	"consumos.h"
+	"generales.h"
+
+1636855633 c:\users\usuario\desktop\nacho\facultad\cuatrimestre 2\programacion y laboratorio 2\tp final\proyecto-main\tp final\consumos.h
+
+1634919094 source:c:\users\usuario\desktop\nacho\facultad\cuatrimestre 2\programacion y laboratorio 2\tp final\proyecto-main\tp final\generales.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"generales.h"
+	"gotoxy.h"
+
+1634919094 source:c:\users\usuario\desktop\nacho\facultad\cuatrimestre 2\programacion y laboratorio 2\tp final\proyecto-main\tp final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1636896622 source:c:\users\usuario\desktop\nacho\facultad\cuatrimestre 2\programacion y laboratorio 2\tp final\proyecto-main\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"gotoxy.h"
+	"generales.h"
+	"cliente.h"
+	"clientes.h"
+	"consumo.h"
+	"consumos.h"
+	"ArbolCliente.h"
+	"ListaConsumos.h"
+
+1636895859 source:c:\users\usuario\desktop\nacho\facultad\cuatrimestre 2\programacion y laboratorio 2\tp final\proyecto-main\tp final\arbolcliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArbolCliente.h"
+	"ListaConsumos.h"
+	"cliente.h"
+
+1636856776 c:\users\usuario\desktop\nacho\facultad\cuatrimestre 2\programacion y laboratorio 2\tp final\proyecto-main\tp final\arbolcliente.h
+	"cliente.h"
+	"ListaConsumos.h"
+
+1636856074 c:\users\usuario\desktop\nacho\facultad\cuatrimestre 2\programacion y laboratorio 2\tp final\proyecto-main\tp final\listaconsumos.h
+	"consumo.h"
+
+1636895784 source:c:\users\usuario\desktop\nacho\facultad\cuatrimestre 2\programacion y laboratorio 2\tp final\proyecto-main\tp final\listaconsumos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListaConsumos.h"
+
+1637006956 source:c:\users\luki_\desktop\proyecto-main\proyecto-main\tp final\arbolcliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArbolCliente.h"
+	"ListaConsumos.h"
+	"cliente.h"
+
+1637006748 c:\users\luki_\desktop\proyecto-main\proyecto-main\tp final\arbolcliente.h
+	"cliente.h"
+	"ListaConsumos.h"
+
+1636995249 c:\users\luki_\desktop\proyecto-main\proyecto-main\tp final\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"gotoxy.h"
+
+1636995249 c:\users\luki_\desktop\proyecto-main\proyecto-main\tp final\gotoxy.h
+
+1636995249 c:\users\luki_\desktop\proyecto-main\proyecto-main\tp final\listaconsumos.h
+	"consumo.h"
+
+1636995249 c:\users\luki_\desktop\proyecto-main\proyecto-main\tp final\consumo.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"gotoxy.h"
+
+1636995249 source:c:\users\luki_\desktop\proyecto-main\proyecto-main\tp final\cliente.c
+	"generales.h"
+	"cliente.h"
+
+1636995249 c:\users\luki_\desktop\proyecto-main\proyecto-main\tp final\generales.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1636995249 source:c:\users\luki_\desktop\proyecto-main\proyecto-main\tp final\clientes.c
+	"cliente.h"
+	"clientes.h"
+
+1636995249 c:\users\luki_\desktop\proyecto-main\proyecto-main\tp final\clientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"generales.h"
+
+1636995249 source:c:\users\luki_\desktop\proyecto-main\proyecto-main\tp final\consumo.c
+	"generales.h"
+	"cliente.h"
+	"consumo.h"
+
+1636995249 source:c:\users\luki_\desktop\proyecto-main\proyecto-main\tp final\consumos.c
+	"cliente.h"
+	"consumo.h"
+	"consumos.h"
+	"generales.h"
+
+1636995249 c:\users\luki_\desktop\proyecto-main\proyecto-main\tp final\consumos.h
+
+1636995249 source:c:\users\luki_\desktop\proyecto-main\proyecto-main\tp final\generales.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"generales.h"
+	"gotoxy.h"
+
+1636995249 source:c:\users\luki_\desktop\proyecto-main\proyecto-main\tp final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1636995249 source:c:\users\luki_\desktop\proyecto-main\proyecto-main\tp final\listaconsumos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListaConsumos.h"
+
+1636995249 source:c:\users\luki_\desktop\proyecto-main\proyecto-main\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"gotoxy.h"
+	"generales.h"
+	"cliente.h"
+	"clientes.h"
+	"consumo.h"
+	"consumos.h"
+	"ArbolCliente.h"
+	"ListaConsumos.h"
+
